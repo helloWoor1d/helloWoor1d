@@ -5,10 +5,12 @@ I am Backend Java Developer
 
 ### &#128736; Стек:
 
-![Java](https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg)
-![Spring Boot](https://spring.io/)
-![Hibernate ORM](https://spring.io/)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2300758F.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)]
+![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+[![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff)]
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
 ---
 
