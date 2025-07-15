@@ -11,7 +11,7 @@ I am Backend Java Developer
 
 ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloWoor1d&layout=compact&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloWoor1d&layout=compact&theme=blue_navy)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
