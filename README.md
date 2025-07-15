@@ -13,6 +13,7 @@ I am Backend Java Developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloWoor1d&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=helloWoor1d&show_icons=true&theme=blue_navy)]
 ---
 
 <!--
